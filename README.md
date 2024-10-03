@@ -14,6 +14,7 @@
 ###
 
 <div align="left">
+  <h3>Languages and Tools</h3>
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
@@ -48,6 +49,7 @@
 ###
 
 <div align="left">
+  <h3>Connect with me</h3>
   <a href="https://www.instagram.com/tharuu.she/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
